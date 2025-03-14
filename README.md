@@ -13,3 +13,4 @@ Chapitre 2 : Consacré à la conception de la solution proposée pour répondre 
 Chapitre 3 : Présentation des différents langages choisis et utilisés pour l’implémentation de notre application.
 
 Chapitre 4 : Description de l’environnement matériel et logiciel, suivie d’une présentation des différentes interfaces graphiques permettant l’utilisation de l’application.
+ // chanded
